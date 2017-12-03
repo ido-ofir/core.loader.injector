@@ -1,8 +1,8 @@
 
 
 module.exports = {
-    name: 'core.plugin.injector',
-    dependencies: ['core.injector'],
+    name: 'core.loader.injector',
+    dependencies: ['core.plugin.injector'],
     init(definition, done) {
 
         var core = this;
