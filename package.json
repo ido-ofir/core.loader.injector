@@ -1,6 +1,6 @@
 {
     "name": "core.loader.injector",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "description": "loads 'dependencies' for plugins",
     "main": "index.js",
     "scripts": {
